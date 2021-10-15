@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Dictionary />
-        Hello!!! Soon this will be a dictionary App
       </header>
     </div>
   );
